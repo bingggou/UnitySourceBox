@@ -1,0 +1,1 @@
+D:\vsPro\wpfTest\wpfTest\obj\Release\Interop.Shell32.dll
